@@ -8,4 +8,4 @@ int main(void) {
     result = d * 1.08;
     printf("%.2f", result);
     return 0;
-}
+ }
